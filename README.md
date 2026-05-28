@@ -99,7 +99,9 @@ Este  proyecto es interesante porque te invita a indagar poco a poco en el campo
 - Video 
 - Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
-- etc.
+- Galeria de Imagenes
+- Objetos en Loop
+- etc. 
 
 
 
