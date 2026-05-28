@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Caeli's Adventure
 
-**Web:**   (url github.io)
+**Web:**  https://m3chaxs.github.io/caeli/#/
 
 **Autor:**  Mercedes Serrano Tirado
 
