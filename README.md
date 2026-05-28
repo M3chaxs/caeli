@@ -1,5 +1,4 @@
-<img width="2740" height="1938" alt="CamScanner 28-05-2026 20 42" src="https://github.com/user-attachments/assets/8b92f265-cddf-4353-8af5-af956dda3a83" />
-<img width="2740" height="1938" alt="CamScanner 28-05-2026 20 42" src="https://github.com/user-attachments/assets/781ceca8-492a-4c21-8d3f-18bcfd8263dd" />
+
 ## Caeli's Adventure
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
@@ -51,6 +50,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.2. Esquema de navegación 
 <img width="2824" height="2084" alt="Storyboard_caeli&#39;s adventure_1" src="https://github.com/user-attachments/assets/388d3eb7-8457-4a03-917f-d788cd073a4d" />
+<img width="2740" height="1938" alt="CamScanner 28-05-2026 20 42" src="https://github.com/user-attachments/assets/3bf3be4a-e4cf-40a6-9d6e-4f76a11c54d6" />
 
 
 
