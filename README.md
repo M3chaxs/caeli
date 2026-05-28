@@ -14,24 +14,22 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Mercedes Serrano Tirado
 
- [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
-
-**Resumen** : Este proyecto busca contar la historia de mi propio OC (original character) desde sus inicios en el infierno al servicio de su malvado rey Lucifer, hasta su llegada un tanto inesperada a la Tierra, donde descubrirá que no esta tan solo como creía.
+**Resumen** : Este proyecto busca contar la historia de mi propio OC (original character), desde sus inicios en el infierno al servicio de su malvado rey Lucifer, hasta su llegada un tanto inesperada a la Tierra, donde descubrirá que no esta tan solo como creía y que la vida en la Tierra no es tan distinta a la del infierno. De momento este proyecto es solo una demo que pretendo desarrollar más en un futuro. 
 
 **Estilo/género:**  Videojuego
 
 **Resolución:** 1200x800 px responsivo y reescalable 
 
-**Probado en:** Google Chrome
+**Probado en:** Google Chrome y Android 
 
-**Tamaño proyecto:** 53KB
+**Tamaño proyecto:** 59.623KB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY)
 
-**Fecha** : 27/05/2026
+**Fecha** : 28/05/2026
 
 **Medios** 
--Instagram: @_m3chaxs.art_
+- Instagram: @_m3chaxs.art_
 - Github: https://m3chaxs.github.io/caeli/#/
 - Icht.io: https://mechaxs-3.itch.io/caelisadventure
 
@@ -41,7 +39,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 2. Memoria del proyecto 
 
-### 2.1 Storyboard: En esta demo de un juego que espero desarrollar más en un futuro, se narra como Caeli debe hacer un favor al rey del Infierno, Lucifer, el cual cansado de nuestro pequeño demonio lo manda a la Tierra para librarse de el
+### 2.1 Storyboard: En esta demo de un juego que espero desarrollar más en un futuro, se narra como Caeli debe hacer un favor al rey del Infierno, Lucifer, el cual cansado de nuestro pequeño demonio lo mandará a la Tierra para librarse de el. Una vez en la tierra Caeli se topara con un ser parecido a el, salvo por que pertenece al bando contrario al de su especie, un angel. 
 
 <img width="2692" height="1951" alt="Storyboard_caeli&#39;s adventure_5 (1)" src="https://github.com/user-attachments/assets/a24040a6-358f-4c66-9669-b7f6e718b3c0" />
 <img width="1108" height="1886" alt="Storyboard_caeli&#39;s adventure_3" src="https://github.com/user-attachments/assets/68bcd485-c1dd-4f1c-834d-7ef42405514b" />
@@ -57,13 +55,14 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 3. Metodología
 
-El proyecto es completamente integro, todos los assets e ilustraciones han sido creados por el artista (yo). La animación esta realiozada en Clñip Studio Paint y se trata de una animación frame by frame. El sistema de navegación es mediante botones salvo en la parte jugable, cuyo avance solo se puede conseguir recogiendo los objetos o completando el minijuego. Cuenta con sonido global,salvo en algunas escenas donde el audo esta personalizado dependiendo de la atmosfera del juego. También cuenta con un menú de ajustes de música, una galería con los personajes y una pantalla de créditos. Además hice uso de Dialogic para establecer dialogos entre el personaje y los NPC. 
+El proyecto es completamente integro, todos los assets e ilustraciones han sido creados por el artista (yo). La animación esta realiozada en Clip Studio Paint y se trata de una animación 2D frame by frame. El sistema de navegación es mediante botones salvo en la parte jugable, cuyo avance solo se puede conseguir recogiendo los objetos o completando el minijuego. Cuenta con sonido global,salvo en algunas escenas donde el audo esta personalizado dependiendo de la atmosfera del juego. También cuenta con un menú de ajustes de música, una galería con los personajes y una pantalla de créditos. Además hice uso de Dialogic para establecer dialogos entre el personaje y los NPC. Cada uno de los códigos esta realizado gracias a la ayuda de los docentes de la facultad y algun que otro foro o tutorial consultado de internet. 
 
 
 
 ## Etapa 1: Ideación de proyecto
 
 **Inspiración para el proyecto**
+Mi proyecto surgio de la combinación de estos 2 grandes juegos Undertale y Sky:children of light. Del primero tome el modo de movimiento de personajes 2D en escenarios 2D y del segundo la idea de desbloquear partes de la historia del personaje principal a base de completar misiones o minijuegos. 
 <img width="735" height="412" alt="Despite everything, its still you" src="https://github.com/user-attachments/assets/73f126b9-fece-4ae2-b738-99c06e78d0f7" />
 <img width="640" height="480" alt="Sans and Papyrus" src="https://github.com/user-attachments/assets/39f12209-8b2d-4325-8d34-3a387d947f38" />
 <img width="540" height="540" alt="Undertale!!" src="https://github.com/user-attachments/assets/e5020368-50a7-4734-98cf-f8d4fcf7ab60" />
@@ -75,7 +74,7 @@ El proyecto es completamente integro, todos los assets e ilustraciones han sido 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque te invita a indagar poco a poco en el campo de la programación para así poder idear pequeños proyectos, ya sea videojuegos, paginas web o cualquier otro tipo de medio interactivo en la web; que esten relacionados con tu imagen y que te ayuden a ganar visibilidad como artista poco a poco. 
+Este  proyecto es interesante porque al estar realizado integramente por el creador te invita a indagar poco a poco en el campo de la programación para así poder idear pequeños proyectos, ya sea videojuegos, paginas web o cualquier otro tipo de medio interactivo en la web; que esten relacionados con tu imagen y que te ayuden a ganar visibilidad como artista poco a poco. 
 
 
 
@@ -104,13 +103,13 @@ Este  proyecto es interesante porque te invita a indagar poco a poco en el campo
 
 
 ## Etapa 3: Problemas identificados
-El sistema de Dialogic podría estar mejor desarrollado, al igual que la estetica de algunas pantallas, como la del menú de opciones, podria estar más trabajada. El principal problema ha sido la falta de tiempo en un juego que estaba pensado para estar completamente completamente diseñado por el creador. Algunas ilustraciones no están completamente acabadas (les falta el renderizado)
+El sistema de Dialogic podría estar mejor desarrollado, al igual que la estetica de algunas pantallas, como la del menú de opciones por ejemplo, podría estar más trabajada. El principal problema ha sido la falta de tiempo en un juego que estaba pensado para estar completamente diseñado desde 0. Algunas ilustraciones no están completamente acabadas (les falta el renderizado y definición). 
 
 
 
 # 4. Conclusiones 
 
-He disfrutado mucho del proceso, aunque me da impotencia que la falta de tiempo no me haya permitido desarrollar el proyecto tal cual y como lo había pensado. En un futuro (no muy lejano) pretendo investigar un poco más acerca de Godot y el código HTML, así como en diseño y animación de personajes y también las transiciones entre escenas ; para poder desarrollar un mejor proyecto con mucha mejor calidad y un mejor desarrollo de la historia. 
+He disfrutado mucho del proceso, aunque me da impotencia que la falta de tiempo no me haya permitido desarrollar el proyecto tal cual y como lo había pensado. En un futuro (no muy lejano) pretendo investigar un poco más acerca de Godot y el código HTML, así como en diseño y animación de personajes y también las transiciones entre escenas ; para poder desarrollar un mejor proyecto con mucha mejor calidad y un mejor desarrollo de la historia. En general estoy muy contenta con lo que he sido capaz de crear. 
 
 
 
