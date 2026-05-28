@@ -79,13 +79,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque te invita a indagar poco a poco en el campo de la programación para así poder idear pequeños proyectos, ya sea videojuegos, paginas web o cualquier otro tipo de medio interactivo en la web; que esten relacionados con tu imagen y que te ayuden a ganar visibilidad como artista poco a poco. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a cualquier tipo de público, pero especialmente a estudiantes de artes o personas dentro del colectivo más "friki"
 
 
 
