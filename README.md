@@ -26,7 +26,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Tamaño proyecto:** 53KB
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY)
 
 **Fecha** : 27/05/2026
 
@@ -57,18 +57,20 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 3. Metodología
 
-El proyecto es completamente integro, todos los assets e ilustraciones han sido creados por el artista (yo). 
+El proyecto es completamente integro, todos los assets e ilustraciones han sido creados por el artista (yo). El sistema de navegación es mediante botones salvo en la parte jugable, cuyo avance solo se puede conseguir recogiendo los objetos o completando el minijuego. Cuenta con sonido global,salvo en algunas escenas donde el audo esta personalizado dependiendo de la atmosfera del juego. También cuenta con un menú de ajustes de música, una galería con los personajes y una pantalla de créditos. Además hice uso de Dialogic para establecer dialogos entre el personaje y los NPC
 
 
 
 ## Etapa 1: Ideación de proyecto
 
-**Referencias**
-
-
-
-
-
+**Inspiración para el proyecto**
+<img width="735" height="412" alt="Despite everything, its still you" src="https://github.com/user-attachments/assets/73f126b9-fece-4ae2-b738-99c06e78d0f7" />
+<img width="640" height="480" alt="Sans and Papyrus" src="https://github.com/user-attachments/assets/39f12209-8b2d-4325-8d34-3a387d947f38" />
+<img width="540" height="540" alt="Undertale!!" src="https://github.com/user-attachments/assets/e5020368-50a7-4734-98cf-f8d4fcf7ab60" />
+<img width="736" height="736" alt="sky 🫧" src="https://github.com/user-attachments/assets/fed84907-bb80-42bf-ad8a-c01b471f373f" />
+<img width="736" height="746" alt="descargar" src="https://github.com/user-attachments/assets/a7b44994-2e1f-4fd0-83b0-968a67b2c3c2" />
+<img width="736" height="952" alt="Skycotl 💫" src="https://github.com/user-attachments/assets/d26e7605-eaff-4de8-8f20-402c800b72e9" />
+<img width="736" height="414" alt="Sky_ Children Of The Light - Port bevestigd_ _ Nintendo Switch nieuws _ NintendoReporters" src="https://github.com/user-attachments/assets/4e8c26cf-534c-46ee-bba9-acfd625b0fe5" />
 
 
 **Motivación de la propuesta** 
@@ -87,7 +89,7 @@ Este  proyecto es interesante porque te invita a indagar poco a poco en el campo
 
 ## Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+
 
 - Juego. 
 - Video 
@@ -95,23 +97,20 @@ Este  proyecto es interesante porque te invita a indagar poco a poco en el campo
 - Menús y elementos de navegación (botones)
 - Galeria de Imagenes
 - Objetos en Loop
+- Sonido global
+- Sistema de Dialogo
 - etc. 
 
 
 
 ## Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
+El sistema de Dialogic podría estar mejor desarrollado, al igual que la estetica de algunas pantallas, como la del menú de opciones, podria estar más trabajada. El principal problema ha sido la falta de tiempo en un juego que estaba pensado para estar completamente completamente diseñado por el creador. Algunas ilustraciones no están completamente acabadas (les falta el renderizado)
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
+He disfrutado mucho del proceso, aunque me da impotencia que la falta de tiempo no me haya permitido desarrollar el proyecto tal cual y como lo había pensado. En un futuro (no muy lejano) pretendo investigar un poco más acerca de Godot y el código HTML, así como en diseño y animación de personajes ; para poder desarrollar un mejor proyecto con mucha mejor calidad y un mejor desarrollo de la historia. 
 
 
 
@@ -127,13 +126,8 @@ Este  proyecto es interesante porque te invita a indagar poco a poco en el campo
 **Herramientas utilizadas**
 
 - Godot Engine 4.6
-- 
+- Dialogic 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-https://creativecommons.org/licenses/?lang=es
-
-* logos en https://creativecommons.org/mission/downloads/
-  
-  <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
+ <img width="403" height="141" alt="by" src="https://github.com/user-attachments/assets/059e4778-38c7-46dc-aa45-de90bf529ace" />
 
 Mayo 2026
