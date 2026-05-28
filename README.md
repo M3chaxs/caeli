@@ -16,7 +16,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto busca contar la historia de mi propio OC (original character) desde sus inicios en el infierno al servicio de su malvado rey Lucifer, hasta su llegada un tanto inesperada a la Tierra, donde descubrirá que no esta tan solo como creía
+**Resumen** : Este proyecto busca contar la historia de mi propio OC (original character) desde sus inicios en el infierno al servicio de su malvado rey Lucifer, hasta su llegada un tanto inesperada a la Tierra, donde descubrirá que no esta tan solo como creía.
 
 **Estilo/género:**  Videojuego
 
@@ -24,17 +24,16 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Probado en:** Google Chrome
 
-**Tamaño proyecto:** ??
+**Tamaño proyecto:** 53KB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
 **Fecha** : 27/05/2026
 
 **Medios** (donde se tiene presencia relacionada):
-
-- Github:
-- Twitter
-- Instagram
+-Instagram: _m3chaxs.art_
+- Github: https://m3chaxs.github.io/caeli/#/
+- Icht.io: https://mechaxs-3.itch.io/caelisadventure
 
 
 <img width="1300" height="900" alt="portada juego godot" src="https://github.com/user-attachments/assets/5ab35d77-2c13-4d11-8e10-3e8ab22ef3e1" />
@@ -42,38 +41,33 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 2. Memoria del proyecto 
 
-### 2.1 Storyboard: 
+### 2.1 Storyboard: En esta demo de un juego que espero desarrollar más en un futuro, se narra como Caeli debe hacer un favor al rey del Infierno, Lucifer, el cual cansado de nuestro pequeño demonio lo manda a la Tierra para librarse de el
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
+<img width="2692" height="1951" alt="Storyboard_caeli&#39;s adventure_5 (1)" src="https://github.com/user-attachments/assets/a24040a6-358f-4c66-9669-b7f6e718b3c0" />
+<img width="1108" height="1886" alt="Storyboard_caeli&#39;s adventure_3" src="https://github.com/user-attachments/assets/68bcd485-c1dd-4f1c-834d-7ef42405514b" />
+<img width="2427" height="1754" alt="Storyboard_caeli&#39;s adventure_4" src="https://github.com/user-attachments/assets/ed1240c4-a37b-4279-9b8f-c67caee1f8b5" />
+<img width="2832" height="2039" alt="Storyboard_caeli&#39;s adventure_2" src="https://github.com/user-attachments/assets/7a156171-3d7f-4ec7-ae27-21bd2aaa4dc5" />
 
 
 ### 2.2. Esquema de navegación 
-
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
+<img width="2824" height="2084" alt="Storyboard_caeli&#39;s adventure_1" src="https://github.com/user-attachments/assets/388d3eb7-8457-4a03-917f-d788cd073a4d" />
 
 
 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+El proyecto es completamente integro, todos los assets e ilustraciones han sido creados por el artista (yo). 
 
 
 
 ## Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Referencias**
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+
+
+
 
 
 
