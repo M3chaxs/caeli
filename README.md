@@ -20,11 +20,11 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Videojuego
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 1200x800 px responsivo y reescalable 
 
 **Probado en:** Google Chrome
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** ??
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
