@@ -110,7 +110,7 @@ El sistema de Dialogic podría estar mejor desarrollado, al igual que la estetic
 
 # 4. Conclusiones 
 
-He disfrutado mucho del proceso, aunque me da impotencia que la falta de tiempo no me haya permitido desarrollar el proyecto tal cual y como lo había pensado. En un futuro (no muy lejano) pretendo investigar un poco más acerca de Godot y el código HTML, así como en diseño y animación de personajes ; para poder desarrollar un mejor proyecto con mucha mejor calidad y un mejor desarrollo de la historia. 
+He disfrutado mucho del proceso, aunque me da impotencia que la falta de tiempo no me haya permitido desarrollar el proyecto tal cual y como lo había pensado. En un futuro (no muy lejano) pretendo investigar un poco más acerca de Godot y el código HTML, así como en diseño y animación de personajes y también las transiciones entre escenas ; para poder desarrollar un mejor proyecto con mucha mejor calidad y un mejor desarrollo de la historia. 
 
 
 
