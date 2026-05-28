@@ -123,19 +123,16 @@ Este  proyecto es interesante porque te invita a indagar poco a poco en el campo
 
 # 5 Referencias 
 
-**Artículos y blogs** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+* Musica: Pixabay 
+* Imágenes: Obras Originales 
+* Tipografía: Tipografía Original
 
 **Herramientas utilizadas**
 
-- Godot Engine 4.x
+- Godot Engine 4.6
 - 
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
@@ -145,4 +142,4 @@ https://creativecommons.org/licenses/?lang=es
   
   <img src="https://licensebuttons.net/l/by-nc-sa/3.0/nl/88x31.png" style="width: 80px"></small>
 
-Mayo 202X
+Mayo 2026
