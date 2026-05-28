@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## Caeli's Adventure
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,31 +8,27 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Caeli's Adventure
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos) 
+**Autor:**  Mercedes Serrano Tirado
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto busca contar la historia de mi propio OC (original character) desde sus inicios en el infierno al servicio de su malvado rey Lucifer, hasta su llegada un tanto inesperada a la Tierra, donde descubrirá que no esta tan solo como creía
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
-
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
+**Estilo/género:**  Videojuego
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:** Google Chrome
 
 **Tamaño proyecto:** 14MB 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 27/05/2026
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -41,7 +37,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](WalkingGirl_front01.png)
+<img width="1300" height="900" alt="portada juego godot" src="https://github.com/user-attachments/assets/5ab35d77-2c13-4d11-8e10-3e8ab22ef3e1" />
+
 
 # 2. Memoria del proyecto 
 
