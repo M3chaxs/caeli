@@ -30,8 +30,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Fecha** : 27/05/2026
 
-**Medios** (donde se tiene presencia relacionada):
--Instagram: _m3chaxs.art_
+**Medios** 
+-Instagram: @_m3chaxs.art_
 - Github: https://m3chaxs.github.io/caeli/#/
 - Icht.io: https://mechaxs-3.itch.io/caelisadventure
 
@@ -57,7 +57,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 # 3. Metodología
 
-El proyecto es completamente integro, todos los assets e ilustraciones han sido creados por el artista (yo). El sistema de navegación es mediante botones salvo en la parte jugable, cuyo avance solo se puede conseguir recogiendo los objetos o completando el minijuego. Cuenta con sonido global,salvo en algunas escenas donde el audo esta personalizado dependiendo de la atmosfera del juego. También cuenta con un menú de ajustes de música, una galería con los personajes y una pantalla de créditos. Además hice uso de Dialogic para establecer dialogos entre el personaje y los NPC
+El proyecto es completamente integro, todos los assets e ilustraciones han sido creados por el artista (yo). La animación esta realiozada en Clñip Studio Paint y se trata de una animación frame by frame. El sistema de navegación es mediante botones salvo en la parte jugable, cuyo avance solo se puede conseguir recogiendo los objetos o completando el minijuego. Cuenta con sonido global,salvo en algunas escenas donde el audo esta personalizado dependiendo de la atmosfera del juego. También cuenta con un menú de ajustes de música, una galería con los personajes y una pantalla de créditos. Además hice uso de Dialogic para establecer dialogos entre el personaje y los NPC. 
 
 
 
@@ -126,7 +126,8 @@ He disfrutado mucho del proceso, aunque me da impotencia que la falta de tiempo 
 **Herramientas utilizadas**
 
 - Godot Engine 4.6
-- Dialogic 
+- Dialogic
+- Clip Studio Paint
 
  <img width="403" height="141" alt="by" src="https://github.com/user-attachments/assets/059e4778-38c7-46dc-aa45-de90bf529ace" />
 
